@@ -27,6 +27,7 @@ The primary objective of this project is to achieve wireless sound control throu
 
 - Ensure that you are running the code on a Windows machine for proper functionality.
 - Run the following command in the terminal in the python file's directory
+  
   `python3 HandGestureVolumeControl.py`
 
 # Summary
